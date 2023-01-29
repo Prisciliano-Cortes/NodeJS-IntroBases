@@ -1,2 +1,2 @@
 # NodeJS-IntroBases
-Conceptos fundamentales de Node JS
+Fundamental concepts of Node JS
